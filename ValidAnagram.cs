@@ -6,11 +6,11 @@ public class Solution {
         } 
 
 
-        var s = CreateDictionary(s);
+        var sinput = CreateDictionary(s);
         var anagram = CreateDictionary(t);
 
 
-        foreach (var item in s)
+        foreach (var item in sinput)
         {
 
             if (!anagram.ContainsKey(item.Key)){ //checks if the s.key not contain in anagram
