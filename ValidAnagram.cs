@@ -19,7 +19,7 @@ public class Solution {
             }
 
 
-            if (item.Value != anagram[item.Key]){ //checks if the number of characters are equal
+            if (item.Value != anagram[item.Key]){ //checks if the number of characters are different
               
               return false;
             } 
