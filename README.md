@@ -1,3 +1,1 @@
-# Algorithms
-
-This repository lists all my advances in solving algorithm problems.
+This repository lists all my advances in solving problems using algorithms.
