@@ -1,3 +1,3 @@
-# LeetCode
+# Algorithms
 
-This repository lists all my advances in solving algorithm problems in leet code platform.
+This repository lists all my advances in solving algorithm problems.
