@@ -9,7 +9,7 @@
 
 def recursive_sum(arr):
     if (arr == []):
-        return print(0)
+        return 0
     return arr[0] + recursive_sum(arr[1:])
 
 recursive_sum([2,4,6])
